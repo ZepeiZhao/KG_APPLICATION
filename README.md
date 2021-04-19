@@ -1,7 +1,7 @@
-# Best Apartment Renting Platform Based on Knowledge Graph
-Developed an apartment renting platform for providing user an accurate and personalized query and answer website, combined with covid-19, US census, celebrity data to enrich database and knowledge graph
+# Demo: Knowledge Graph-Based Housing Market Analysis
+The housing market is complex and multi-faceted, which makes its analysis challenging for users and professionals. We develop a four-step knowledge graph-based knowledge extraction approach for the housing market for efficient and accurate data analysis, consisting of data acquisition and cleaning, entity linking, ontology mapping, and question answering. The proposed system allows one to summarize the housing information for a selected geographical area, analyze the surroundings by collecting census data, understand the medical safety based on COVID-19 data, and the area attractiveness based on celebrities data from DBpedia. Our system can provide personalized recommendations given keywords and information about the market over time. A user-based evaluation demonstrates the utility of our system.
 
-Co-worker: Ziping Hu
+Arthur: Ziping Hu, Zepei Zhao, Mohammad Rostami, Filip Ilievski, Basel Shbita
 
 Demo: https://www.youtube.com/watch?v=-2dZRv0YEQE&t=5s
 
